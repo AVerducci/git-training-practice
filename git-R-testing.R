@@ -52,3 +52,5 @@ le_averages
 
 #save this table as a CSV file in the data sub-folder
 write_csv(le_averages, "./data/le_averages.csv")
+
+#need to make a table here.
